@@ -1,1 +1,3 @@
-alert("javascript is runnning!")
+import { nanoid } from 'nanoid';
+
+alert("javascript is runnning!" + nanoid())
