@@ -1,25 +1,24 @@
 {
-  "name": "vite-project",
-  "version": "1.0.0",
-  "description": "Simple vite project from zero",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Balaagha/vite-crash-course.git"
-  },
-  "keywords": [
-    "Vite",
-    "js",
-    "simple",
-    "project"
-  ],
-  "author": "Balaagha Alihumatov",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Balaagha/vite-crash-course/issues"
-  },
-  "homepage": "https://github.com/Balaagha/vite-crash-course#readme"
+    "name": "vite-project",
+    "version": "1.0.0",
+    "description": "Simple vite project from zero",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Balaagha/vite-crash-course.git"
+    },
+    "keywords": [
+        "Vite",
+        "js",
+        "simple",
+        "project"
+    ],
+    "author": "Balaagha Alihumatov",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Balaagha/vite-crash-course/issues"
+    },
+    "homepage": "https://github.com/Balaagha/vite-crash-course#readme"
 }
